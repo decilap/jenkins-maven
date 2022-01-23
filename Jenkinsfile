@@ -1,4 +1,3 @@
-
 peline {
     agent any
     stages {
@@ -21,4 +20,4 @@ peline {
         }
      
     }
-}}
+}
